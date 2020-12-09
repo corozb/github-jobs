@@ -9,3 +9,6 @@ In this project I used:
   <br>
 - React Bootstrap:
   `npm i bootstrap`
+  <br>
+- React Markdown
+  `npm i react-markdown`
